@@ -14,5 +14,3 @@ This site documents my process, experiments, and iterations.
 ---
 
 ## Dev Log
-
-Posts are below.
