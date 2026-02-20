@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Dev Log"
+title: "Mario Karty: Then and Now"
 date: 2026-02-19
 categories: [Game Design]
 tags: [mario-karty, scoundrel]
