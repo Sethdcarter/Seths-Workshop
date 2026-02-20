@@ -1,1 +1,9 @@
+title: Seth Carter
+description: Game systems, 3D prints, and miniature painting dev logs.
 theme: jekyll-theme-cayman
+
+author:
+  name: Seth Carter
+
+header_pages:
+  - about.md
