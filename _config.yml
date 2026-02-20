@@ -1,9 +1,9 @@
-title: Seth Carter Workshop
+title: Seth Carter
 description: Game systems, 3D prints, and miniature painting.
 theme: minima
 
-#author:
-  #name: Seth D Carter
+author:
+  name: Seth
 
 header_pages:
   - about.md
