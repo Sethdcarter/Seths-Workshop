@@ -8,11 +8,9 @@ permalink: /projects/
 
 ### Mario Karty
 A companion game for Mario Kart.  
-[Read posts tagged Mario Karty →](/tags/#mario-karty)
 
 ### Mario Kart: Scoundrel
 A reimagined Mario Karty with a new style of play.  
-[Read posts tagged Scoundrel →](/tags/#scoundrel)
 
 ---
 
