@@ -20,5 +20,3 @@ and iterations.
 - 🎨 Mini Painting Log
 
 ---
-
-## Recent Posts
