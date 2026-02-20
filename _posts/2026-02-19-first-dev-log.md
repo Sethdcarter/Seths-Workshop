@@ -3,6 +3,7 @@ layout: post
 title: "First Dev Log"
 date: 2026-02-19
 categories: [Game Design]
+tags: [mario-karty, scoundrel]
 ---
 
 ## A New Take On The Past
