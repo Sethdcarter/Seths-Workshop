@@ -1,16 +1,24 @@
-Welcome to my project archive.
+---
+layout: home
+title: Home
+---
 
-I design game systems, build 3D printed tools, and paint miniatures.  
-This site documents my process, experiments, and iterations.
+## Welcome
+
+I create tabletop systems, 3D printed tools, and paint miniatures.
+
+This site documents the evolution of my projects — ideas, experiments,
+and iterations.
 
 ---
 
-## Projects
+## Featured Projects
 
-- 🎮 Game Design
-- 🧱 3D Prints
-- 🎨 Mini Painting
+- 🎮 [Mario Karty](/projects/)
+- 🎮 Mario Kart: Scoundrel
+- 🧱 3D Printing Experiments
+- 🎨 Mini Painting Log
 
 ---
 
-## Dev Log
+## Recent Posts
