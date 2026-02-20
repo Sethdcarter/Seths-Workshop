@@ -22,4 +22,4 @@ Custom inserts, components, and prototypes.
 
 ## 🎨 Mini Painting
 
-Miniature painting experiments, techniques, and finished pieces.
+Miniature painting experiments, techniques, and finished pieces. 
