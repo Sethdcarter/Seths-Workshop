@@ -1,9 +1,9 @@
 title: Seth Carter
-description: Game systems, 3D prints, and miniature painting dev logs.
+description: Game systems, 3D prints, and miniature painting.
 theme: minima
 
-author:
-  name: Seth Carter
+#author:
+  #name: Seth Carter
 
 header_pages:
   - about.md
