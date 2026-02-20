@@ -14,7 +14,7 @@ and iterations.
 
 ## Featured Projects
 
-- 🎮 [Mario Karty](/projects/)
+- 🎮 Mario Karty
 - 🎮 Mario Kart: Scoundrel
 - 🧱 3D Printing Experiments
 - 🎨 Mini Painting Log
