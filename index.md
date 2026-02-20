@@ -1,5 +1,3 @@
-# Seth Carter
-
 Welcome to my project archive.
 
 I design game systems, build 3D printed tools, and paint miniatures.  
