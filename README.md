@@ -1,2 +1,2 @@
 # Seths-Workshop
-Seth’s workshop for game design, 3D prints, and mini painting
+Seth’s place for game design, 3D prints, and mini painting, and whatever else
