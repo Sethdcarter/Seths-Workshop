@@ -12,11 +12,14 @@ Well, here it is: Mario Karty. I made a few different versions of it so feel fre
 
 ## Downloads (right click, save as)
 
-- [Mario Karty Rules]("/assets/mario-karty/Mario-Karty.docx")
+- [Mario Karty Rules](/assets/mario-karty/Mario-Karty.docx)
 - [Mario Font (Required)]("/assets/mario-karty/SuperMario256.ttf")
 - [Mario Karty v9]("/assets/mario-karty/Mario-Karty-v9-Scoring.pptx")
 - [Mario Karty Simple]("/assets/mario-karty/Mario-Karty-vSimple.pptx")
 - [Mario Karty Simple and Diceless]("/assets/mario-karty/Mario-Karty-vSimple-Diceless.pptx")
 
+[Download Mario Karty Rules](/Seths-Workshop/assets/mario-karty/Mario-Karty.docx)
+
+[Download Mario Karty Rules v1](https://sethdcarter.github.io/Seths-Workshop/assets/mario-karty/Mario-Karty.docx)
 
 Anyway, enjoy!
